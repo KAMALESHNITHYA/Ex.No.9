@@ -1,7 +1,7 @@
 # Ex.No.9 Exploration of Prompting Techniques for Video Generation
 
-# Date:
-# Reg. No.:
+# Name : KAMALESH R
+# Reg. No.: 212223230094
 
 # Aim:
 To demonstrate the ability of text-to-Video generation tools to reproduce an existing Video by crafting precise prompts. The goal is to identify key elements within the Video and use these details to generate an Video as close as possible to the original.
@@ -48,6 +48,19 @@ Tools/LLMs for Video Generation:
 2.	The Final Generated Video: The Video created using your refined prompt.
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated Videos, along with any adjustments made to the prompt.
+# Basic Prompt :
 
-## Conclusion:
+"Generate a video of chennai beach"
+
+https://github.com/user-attachments/assets/925921b4-2828-4837-8769-753b23ea21b8
+
+
+# Refined Prompt :
+
+“A breathtaking cinematic aerial view of Marina Beach, Chennai during golden sunset, massive ocean waves gently hitting the shore, crowded beach with people flying kites and walking along the coastline, vibrant food stalls and colorful lights, realistic sand textures, warm orange and pink sky, fishing boats near the horizon, smooth drone camera movement, ultra realistic lighting, atmospheric coastal breeze, detailed Tamil Nadu city skyline in the background, immersive cinematic mood, natural colors, 4K high-detail travel film style video.”
+
+https://github.com/user-attachments/assets/7b2ac0a5-d5a2-4dbd-952f-6b18b616d278
+
+
+# Conclusion:
 By using detailed and well-crafted prompts, text-to-Video generation models can be effective in reproducing an Video closely. The quality of the generated Video depends on how accurately the prompt describes the Video's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate Videos that closely match real-world visuals, which is useful for creative and practical applications.
